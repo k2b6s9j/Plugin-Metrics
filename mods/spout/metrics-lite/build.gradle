@@ -1,0 +1,5 @@
+group = 'org.mcstats.spout'
+
+dependencies {
+    compile 'org.spout:spoutapi:dev-SNAPSHOT'
+}

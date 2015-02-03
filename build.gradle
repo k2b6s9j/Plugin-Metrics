@@ -26,6 +26,7 @@ subprojects {
       url "https://oss.sonatype.org/content/groups/public/"
     }
     maven {
+      name 'Spout Official'
       url "http://nexus.spout.org/content/groups/public/"
     }
     maven {
