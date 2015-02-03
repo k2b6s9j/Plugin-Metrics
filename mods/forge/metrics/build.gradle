@@ -18,13 +18,8 @@ buildscript {
 apply plugin: 'forge'
 
 group = 'org.mcstats.forge'
+archivesBaseName = 'metrics'
 
 minecraft {
     version = '1.7.10-10.13.2.1291'
-}
-
-println reobf.properties
-
-reobf {
-
 }

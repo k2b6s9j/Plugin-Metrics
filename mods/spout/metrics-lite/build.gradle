@@ -1,4 +1,5 @@
 group = 'org.mcstats.spout'
+archivesBaseName = 'metrics-lite'
 
 dependencies {
     compile 'org.spout:spoutapi:dev-SNAPSHOT'

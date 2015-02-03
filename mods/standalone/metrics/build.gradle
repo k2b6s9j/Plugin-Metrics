@@ -1,1 +1,2 @@
 group = 'org.mcstats.standalone'
+archivesBaseName = 'metrics'

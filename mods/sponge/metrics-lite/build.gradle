@@ -1,4 +1,5 @@
 group = 'org.mcstats.sponge'
+archivesBaseName = 'metrics-lite'
 
 dependencies {
     compile 'org.spongepowered:spongeapi:1.0'
